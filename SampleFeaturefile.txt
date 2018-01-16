@@ -1,0 +1,18 @@
+Epic No:	Feature Description
+E-09070		Create new profile
+
+Story No:	Story Description
+B-73053	  	Create Account as a guest user
+
+List of Sub Client id's	:	MMEW,BMEW,Site,Site_Tablet,NavApp,BagApp
+Overall Business flow	:	MCOM & BCOM
+
+
+Scenario 1	:
+Step 1		: Visit the My Account site and Click on "My Account" tab.
+Step 2 		: Navigate to Create Profile Page.
+Result		: Account Should be Created Successfully.
+
+
+
+
